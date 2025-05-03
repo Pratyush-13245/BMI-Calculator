@@ -1,0 +1,18 @@
+.headingclass
+{
+    text-align: center;
+    color: red;
+    
+}
+
+.mainclass
+{
+    text-align: center;
+}
+.App
+{
+    background-image: url('../bmi-and-weight-loss-banner-background-2GGJXN1.jpg');
+    background-size: cover;
+  background-repeat: no-repeat;
+  height: 300px;
+}
